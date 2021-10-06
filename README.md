@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 # Web ✔️
-![Farmers Market Finder Demo](https://i.imgur.com/O8QMKPp.gif)
+<img src="public/netflixclone.gif" alt="App gif"/>
