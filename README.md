@@ -13,7 +13,6 @@ Clone da SPA home page do site Netflix. Foi criado para aplicação de estudo vo
 # Tecnologia 💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org)
-- [Firestore](https://firebase.google.com/)
 
 
 # Web ✔️
